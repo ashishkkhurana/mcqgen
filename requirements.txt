@@ -1,0 +1,6 @@
+need openai
+need langchain
+need streamlit
+need python-dotenv
+need pypdf2
+
